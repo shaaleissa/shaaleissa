@@ -1,3 +1,6 @@
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 ## Shahad Aleissa
 
 Hi there! I'm Shahad, an aspiring Machine Learning Engineer with a passion for front-end development. I believe in the power of technology to solve real-world problems and enhance user experiences.
@@ -21,7 +24,9 @@ Hi there! I'm Shahad, an aspiring Machine Learning Engineer with a passion for f
 ### Languges and Tools
 
 <img align="left" alt="python" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
 <i align="left" alt="python" font-size="30px" style="padding-right:10px" class="devicon-pandas-original"></i>
+          
 <img align="left" alt="tensorflow" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 <img align="left" alt="flutter" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 <img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
